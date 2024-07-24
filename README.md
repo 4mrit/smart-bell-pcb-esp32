@@ -26,18 +26,19 @@ This repository contains the KiCad project files for the PCB design of the Smart
 ## Getting Started
 
 1. **Clone the Repository**: Clone this repository to your local machine.
-   ```bash
-   git clone https://github.com/4mrit/smart-bell-pcb-esp32.git
-Open in KiCad: Open the .kicad_pro file in KiCad to access the project files.
+    ```bash
+    git clone https://github.com/4mrit/smart-bell-pcb-esp32.git
 
-2. **Review and Modify**: Review the schematic and PCB layout. Modify as necessary for your specific requirements.
+2. **Open in KiCad**: Open the .kicad_pro file in KiCad to access the project files.
 
-3. **Generate Outputs**: Use KiCad to generate PCB manufacturing files, such as Gerbers and Bill of Materials (BoM).
+3. **Review and Modify**: Review the schematic and PCB layout. Modify as necessary for your specific requirements.
 
-4. **Documentation**
-    - Schematic Diagrams: Found in *.kicad_sch files.
-    - PCB Layout: Found in *.kicad_pcb files.
-    - Libraries: Custom libraries are located in KICAD_LIBRARIES/ and custom/.
+4. **Generate Outputs**: Use KiCad to generate PCB manufacturing files, such as Gerbers and Bill of Materials (BoM).
+
+## Documentation
+- Schematic Diagrams: Found in *.kicad_sch files.
+- PCB Layout: Found in *.kicad_pcb files.
+- Libraries: Custom libraries are located in KICAD_LIBRARIES/ and custom/.
 
 ## License
 This project is licensed under the MIT License.
