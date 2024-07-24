@@ -7,7 +7,7 @@ This repository contains the KiCad project files for the PCB design of the Smart
 ## Project Structure
 
 - **`/`**: Root directory containing this `README.md` and other documentation.
-- **`/pcb-esp32/`**: Contains KiCad project files for the ESP32 PCB design.
+- **`/`**: Contains KiCad project files for the ESP32 PCB design.
   - **`*.kicad_sch`**: Schematic files for the PCB design.
   - **`*.kicad_pcb`**: PCB layout files.
   - **`*.kicad_pro`**: Project settings and metadata.
