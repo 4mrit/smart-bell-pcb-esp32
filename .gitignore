@@ -1,0 +1,47 @@
+# KiCad generated files
+*.kicad_pro
+*.kicad_prl
+*.kicad_mod
+*.kicad_sym
+*.kicad_lib
+*.kicad_wks
+*.kicad_pcb-bak
+*.kicad_sch-bak
+*.kicad_pro-bak
+
+# KiCad cache and backup directories
+*.kicad_cache
+fp-info-cache
+*.kicad_autosave
+*.kicad_backups
+*.kicad_temp
+
+# Generated files
+*.pdf
+*.png
+*.jpg
+*.svg
+*.gif
+
+# KiCad specific folders
+/.kicad-*/   # Ignore all KiCad version folders
+/backup/
+*backup*/
+
+# Platform specific files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.swp
+*.swo
+*.bak
+*.tmp
+*.log
+
+# Exclude any local user settings or workspace configurations
+.kicad_pro
+.kicad_pcb
+.kicad_sch
+*.autosave
+
