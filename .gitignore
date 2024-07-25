@@ -9,6 +9,12 @@
 *.kicad_sch-bak
 *.kicad_pro-bak
 
+#lock files
+*.kicad_pro.lck
+*.kicad_sch.lck
+*.kicad_pcb.lck
+*.kicad_prl.lck
+
 # KiCad cache and backup directories
 *.kicad_cache
 fp-info-cache
